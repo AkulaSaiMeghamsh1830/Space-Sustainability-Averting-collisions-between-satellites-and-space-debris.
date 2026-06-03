@@ -73,6 +73,8 @@ Returns:
 - 🔗 [Collision Prediction - by LYNX](https://space-sustainability-averting-collisions-between-s--meghamsh021.replit.app/collision.html)
 
 ---
+NOTE: After clicking the LYNX website link, navigate to the website and then click the "Collision Check" button.
+
 
 
 
