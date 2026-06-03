@@ -68,9 +68,9 @@ Returns:
 
 ## 🌐 Collision Prediction Web App
 
-- 🔗 [LYNX Website](https://akulasaimeghamsh1830.github.io/Space-Sustainability-Averting-collisions-between-satellites-and-space-debris./)
+- 🔗 [LYNX Website](http://127.0.0.1:5501/index.html)
 
-- 🔗 [Collision Prediction - by LYNX](https://akulasaimeghamsh1830.github.io/Space-Sustainability-Averting-collisions-between-satellites-and-space-debris./collision.html)
+- 🔗 [Collision Prediction - by LYNX](http://127.0.0.1:5501/collision.html)
 
 ---
 
