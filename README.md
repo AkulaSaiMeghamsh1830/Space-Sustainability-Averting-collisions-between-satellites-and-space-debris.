@@ -68,9 +68,9 @@ Returns:
 
 ## 🌐 Collision Prediction Web App
 
-- 🔗 [LYNX Website](http://127.0.0.1:5501/index.html)
+- 🔗 [LYNX Website](https://space-sustainability-averting-collisions-between-s--meghamsh021.replit.app/)
 
-- 🔗 [Collision Prediction - by LYNX](http://127.0.0.1:5501/collision.html)
+- 🔗 [Collision Prediction - by LYNX](https://space-sustainability-averting-collisions-between-s--meghamsh021.replit.app/collision.html)
 
 ---
 
